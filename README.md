@@ -1,4 +1,4 @@
-# Welcome to Namaste Javascript Notes 🚀
+# Welcome to Namaste Javascript Notes 
 
 ![Namaste-JavaScript-Banner](https://socialify.git.ci/alok722/namaste-javascript-notes/image?description=1&font=Raleway&forks=1&logo=https://www.tutorialrepublic.com/lib/images/javascript-illustration.png&owner=1&stargazers=1&theme=Dark)
 
