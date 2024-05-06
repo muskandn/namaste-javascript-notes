@@ -1,6 +1,6 @@
 # Episode 16 : JS Engine Exposed, Google's V8 Architecture
 
-* JS runs literally everywhere from smart watch to robots to browsers because of Javascript Runtime Environment (JRE).
+* JS runs literally everywhere from smart watch to robots to browsers because of Javascript Runtime Environment (JRE) as mentioned in the video.
 
 * JRE is like a big container which has everything which are required to run Javascript code.
 
@@ -24,9 +24,6 @@
     * v8 of Google has Interpreter called Ignition, a compiler called Turbo Fan and garbage collector called Orinoco
     * v8 architecture:
     ![JS Engine Demo](/assets/jsengine.png)
-
-
-
 
 <hr>
 
