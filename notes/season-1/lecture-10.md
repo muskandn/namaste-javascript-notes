@@ -1,4 +1,4 @@
-# Episode 10 : Closures  in JS
+# Episode 10 : Closures in JS
 
 * Function bundled along with it's lexical scope is **closure**.
 
@@ -162,8 +162,6 @@ JavaScript! 🚀
   * Over consumption of memory
   * Memory Leak
   * Freeze browser
-
-
 <hr>
 
 Watch Live On Youtube below:
