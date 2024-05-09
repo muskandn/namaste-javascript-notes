@@ -287,6 +287,7 @@ Promise.any([p1, p2, p3])
 // AggregateError: All promises were rejected
 // To get AggregateError array you need to write "err.errors"
 ```
+![image](https://github.com/muskandn/namaste-javascript-notes/assets/99585352/f6a4ad09-d521-42c1-b707-51ea7cecfea1)
 
 ### Summary
 There are 6 static methods of Promise class:
