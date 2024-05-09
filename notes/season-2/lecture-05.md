@@ -10,6 +10,8 @@
 
 💡 One simply doesn't use async/await without knowing promises!
 
+# Always add .catch() to handle the error. Never left any error UNCAUGHT.
+
 ### Promise.all()
 > A promise is a placeholder for a value that's going to be available sometime later. The promise helps handle asynchronous operations. JavaScript provides a helper function Promise.all(promisesArrayOrIterable) to handle multiple promises at once, in parallel, and get the results in a single aggregate array.
 
