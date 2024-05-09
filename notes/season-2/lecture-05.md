@@ -53,6 +53,7 @@ Promise.any([p1, p2, p3]) -> Lets assume we are making 3 API call to fetch data.
 If in above situation what if p2 got rejected, nothing will happen as Promise.any seek for success, so the moment first success will happen that will become the result.
 
 ❓ But what if all promises got failed, so the returned result will be aggregated error i.e. [err1, err2, err3].
+![image](https://github.com/muskandn/namaste-javascript-notes/assets/99585352/de8df9e0-79c0-4f94-89f2-7fcaf51cc3c2)
 
 ## Code Examples:
 
