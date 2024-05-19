@@ -157,7 +157,7 @@ counter1.decrementCounter();
 // returns 1 2 1
 ```
 
-### Q9: Disadvantage of closure?
+### Q9: Disadvantage of closure?------------------------------????___ need to check video
 **Ans**: Overconsumption of memory when using closure as everytime as those closed over variables are not garbage collected till program expires.
 So when creating many closures, more memory is accumulated and this can create memory leaks if not handled.
 
