@@ -13,7 +13,6 @@
 ## 🚀 [PDF Version of Complete Notes](./dist/namaste-javascript-notes.pdf)
 
 <br>
-
 ## 📝 Content List
 
 ### 📌 <ins>Season 1<ins>
